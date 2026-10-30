@@ -77,3 +77,6 @@ LED OFF:
 LED ON:
 <img width="1367" height="903" alt="image" src="https://github.com/user-attachments/assets/68f08ebb-a274-4dec-a1d5-1af2d1146073" />
 
+# RESULT:
+Thus a Analog input (angular displacement sensor POT) and scale the values up on change in the input has been executed successfully.
+
